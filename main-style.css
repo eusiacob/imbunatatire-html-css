@@ -1,0 +1,63 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    margin: 20px auto;
+    background-color: gray;
+}
+header {
+    margin: 10px;
+    border-bottom: 1px solid black;
+    padding: 8px 0 8px 0;
+}
+nav {
+    font-size: 1em;
+    display: inline-block;
+    width: 15%;
+    padding: 0 8px 0 0;
+    vertical-align: top;
+    margin-bottom: 8px;
+}
+section {
+    display: inline-block;
+    width: 80%;
+    border-left: 1px solid black;
+    padding: 0 0 0 8px;
+}
+footer {
+    margin: 10px;
+    padding: 16px 0 16px 0;
+    border-top: 1px solid black;
+}
+ul {
+    list-style-type: none;
+    list-style-image: url(pics/arrow.jpg);
+    list-style-position: outside;
+}
+h1 {
+    color: blue;
+}
+table {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0;
+  }
+   
+  th {
+    padding: 10px;
+  }
+   
+  td {
+    padding: 5px;
+  }
+  th,td {
+    border: solid 1px black;
+  }
+   
+  tr {
+    background-color: #704c4c;
+  }
+  #heading {
+    background-color: #30423f;
+    color: blue;
+  }
